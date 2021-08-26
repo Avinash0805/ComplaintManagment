@@ -1,0 +1,2 @@
+rootProject.name = "Complaint Managment System"
+include ':app'
